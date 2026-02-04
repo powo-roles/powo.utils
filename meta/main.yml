@@ -3,17 +3,7 @@ galaxy_info:
   author: Laurent Almeras
   description: Various helpers for writing ansible's roles.
   license: BSD
-  min_ansible_version: 2.4
-  platforms:
-    - name: EL
-      versions:
-        - 7
-    - name: Fedora
-      versions:
-        - 26
-    - name: Ubuntu
-        - xenial
-        - yakkety
+  min_ansible_version: "2.18"
   galaxy_tags:
     - powo
     - helpers
